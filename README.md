@@ -28,7 +28,7 @@ Users can add, update, delete, and mark tasks as completed via a responsive web 
 
 ---
 
-## 📁 Project Structure
+## Project Structure
 
 ```bash
 task-manager/
@@ -120,7 +120,7 @@ http://localhost:9000
 
 ---
 
-## 🧪 API Endpoints (for testing with tools like Postman)
+## API Endpoints (for testing with tools like Postman)
 
 | Method | Endpoint     | Description        |
 |--------|--------------|--------------------|
