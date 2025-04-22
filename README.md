@@ -3,6 +3,8 @@
 A simple yet powerful task manager web app built using **Go**, **PostgreSQL**, and **Vue.js**.  
 Users can add, update, delete, and mark tasks as completed via a responsive web UI.
 
+---
+
 ## Features
 
 - Add, update, delete tasks
@@ -24,6 +26,8 @@ Users can add, update, delete, and mark tasks as completed via a responsive web 
 | Renderer     | thedevsaddam/renderer    |
 | Database     | PostgreSQL               |
 
+---
+
 ## 📁 Project Structure
 
 ```bash
@@ -42,6 +46,7 @@ task-manager/
 │   └── task.go                # Task struct definition
 ```
 
+---
 
 ## How to Run This App Locally
 
@@ -112,6 +117,8 @@ Then open your browser and go to:
 ```
 http://localhost:9000
 ```
+
+---
 
 ## 🧪 API Endpoints (for testing with tools like Postman)
 
